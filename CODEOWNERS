@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @manoveras
+/src/backend/database.py      @manoveras
+/src/backend/routers/auth.py  @manoveras
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @manoveras
